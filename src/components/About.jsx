@@ -52,9 +52,9 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-full leading-[30px]'
       >
-        I&apos;m skilled software Developer with Experience in Python, JavaScript, and Typescript, and expertise in Frameworks like Django, DRF, React, Next.js, Express, and Node.js.
+        I am a skilled software Developer with Experience in Python, JavaScript, and Typescript, and expertise in Frameworks like Django, DRF, React, Next.js, Express, and Node.js.
         I love creating web solutions that work great and look good. If you have a project in mind or just want to chat about web development, let&apos;s connect!
-        Feel free to reach out through the contact form below or connect with me on [social media links] to discuss how we can work together.
+        Feel free to reach out through the contact form below to discuss how we can work together.
         Thanks for visiting my portfolio, and I&apos;m excited about the possibility of working together on your next project!
       </motion.p>
       <div className='mt-20 flex flex-row flex-wrap justify-center items-center gap-10 ' >
